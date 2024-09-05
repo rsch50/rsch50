@@ -1,4 +1,4 @@
-# Roger Scheiwiller
+# Hi I'm Roger Scheiwiller. 👋
 Senior Global OEM Technical Consultant (Sn. GOTC)
 - Coffee or tea? Tea.
 - Shirt or T-shirt? T-shirt.
@@ -17,7 +17,13 @@ Senior Global OEM Technical Consultant (Sn. GOTC)
     
 C/C++, C#
 
-## Skills
+## Technical Skills
+- Languages
+    - IEC 61131 for programmable logic controllers
+    - C#
+    - C/C++
+- Other
+   - GIT-Visual Studio-Notepad++
 
 ## Education
 
