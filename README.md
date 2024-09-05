@@ -1,5 +1,5 @@
 # Hi I'm Roger Scheiwiller. 👋
-Senior Global OEM Technical Consultant (Sn. GOTC)
+Senior Global OEM Technical Consultant at Rockwell Automation. (Sn. GOTC)
 - Coffee or tea? Tea.
 - Shirt or T-shirt? T-shirt.
 - Real Madrid CF or Man City? Neither.
